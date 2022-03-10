@@ -1,0 +1,2 @@
+h1{text-align:center}.user__name{font-size:24px;color:brown}.user__email{text-decoration:underline}.post__list{display:flex;flex-wrap:wrap;justify-content:space-evenly;list-style:none;padding:0;margin:0}.post__item{width:1000px;border:2px solid brown;background-color:#fdead1;border-radius:20px;padding:20px;margin-bottom:20px;transition:box-shadow .3s ease}.post__item:hover{box-shadow:9px 13px 11px 2px #deb887;cursor:pointer}
+/*# sourceMappingURL=main.0c9169b3.chunk.css.map */
